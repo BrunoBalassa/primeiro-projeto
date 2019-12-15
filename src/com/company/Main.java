@@ -342,7 +342,7 @@ System.out.println("------------------------------------------------");
                     }
                 }
                 System.out.println("negative number = " + coun);
-*/
+
 
         SimpleDateFormat sdf2 = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
 
@@ -356,8 +356,11 @@ System.out.println("------------------------------------------------");
 
         d = cal.getTime();
         System.out.println(sdf2.format(d));
+*/
 
-        System.out.println("HEHEHE");
+
+
+
     }
 
 
